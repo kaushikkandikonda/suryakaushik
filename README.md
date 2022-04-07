@@ -42,18 +42,18 @@
     </a>
 </p>       
 <br>
-
- <!--  CONTRIBUTION AND STREAK BLOCK, PROFILE VIEWS -->
-    <a href="https://git.io/streak-stats">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/> 
-    </a> 📶 <b>GITHUB PAGE COUNT<b> &nbsp;&nbsp; <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/>
-<br>      
-        
         
 <!-- ACTIVITY GRAPH TRACKER -->
 <a>
     <img src="https://activity-graph.herokuapp.com/graph?username=suryakaushik&theme=react-dark&align=center"/>
 </a>
+        
+        
+ <!--  CONTRIBUTION AND STREAK BLOCK, PROFILE VIEWS -->
+    <a href="https://git.io/streak-stats">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/> 
+    </a> 📶 <b>GITHUB PAGE COUNT<b> &nbsp;&nbsp; <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/>
+<br>  
 
 <!--NOMINATION FOR STAR GIT LINK CODE-->
 <p align="right"><a href="https://stars.github.com/nominate/">⭐ Love what you see, Nominate me for GitHub Star</a></p>
