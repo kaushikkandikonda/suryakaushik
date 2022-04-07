@@ -31,7 +31,7 @@
 
 <!--  CONTRIBUTION AND STREAK BLOCK, PROFILE VIEWS -->
 ### ⚙️ &nbsp;GitHub Analytics
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/>  📶 <b>GITHUB PAGE COUNT<b> &nbsp;&nbsp; <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/> <a> <p> 📶 <b>GITHUB PAGE COUNT<b></p> &nbsp;&nbsp; <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/> </a>
 <br>  
         
 <!-- ACTIVITY GRAPH TRACKER -->
