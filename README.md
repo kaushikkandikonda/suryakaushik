@@ -32,7 +32,8 @@
 <!-- GITHUB STATISTICS -->
 <img height="210" align="center" src="https://github-readme-stats.vercel.app/api?username=suryakaushik&hide_border=false&theme=graywhite&hide=css,tsql&langs_count=8" />
 
-<img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=graywhite&hide=css,tsql" /> <img align="center" height="210"  src="https://github-readme-stats.vercel.app/api/?username=suryakaushik&theme=graywhite" /> 
+ <!--  TOP LANGUAGES STATISTICS & GITHUB STATS -->
+<img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=graywhite&hide=css,tsql&layout=compact&include_all_commits=true&count_private=true&show_icons=true" /> <img align="center" height="210"  src="https://github-readme-stats.vercel.app/api/?username=suryakaushik&langs_count=8&theme=graywhite" /> 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
     <!--  CONTRIBUTION AND STREAK BLOCK -->
