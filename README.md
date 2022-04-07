@@ -26,12 +26,11 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ### :zap:  &nbsp;GitHub Stats
-<p align="center">
-    <!-- GITHUB STATISTICS -->
-    <a> <img src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&hide_border=false&align=center&theme=algolia&langs_count=8" /> </a>
-    <!--  TOP LANGUAGES STATISTICS -->
-    <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=algolia&include_all_commits=true&count_private=true&show_icons=true&layout=compact&hide_border=false&align=right" /> </a>
-</p>
+ <!--  TOP LANGUAGES STATISTICS -->
+ <img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=graywhite&hide=css,tsql&include_all_commits=true&count_private=true&show_icons=true&layout=compact&hide_border=false" />
+    
+<!-- GITHUB STATISTICS -->
+<img align="center" height="210" src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&hide_border=false&theme=graywhite&hide=css,tsql&langs_count=8" />
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
