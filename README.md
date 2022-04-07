@@ -26,14 +26,9 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ### :zap:  &nbsp;GitHub Stats
- <!--  TOP LANGUAGES STATISTICS -->
- <img height="210" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=graywhite&hide=css,tsql&include_all_commits=true&count_private=true&show_icons=true&hide_border=false" />
-    
-<!-- GITHUB STATISTICS -->
-<img height="210" align="center" src="https://github-readme-stats.vercel.app/api?username=suryakaushik&hide_border=false&theme=graywhite&hide=css,tsql&langs_count=8" />
-
  <!--  TOP LANGUAGES STATISTICS & GITHUB STATS -->
-<img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=graywhite&hide=css,tsql&layout=compact&include_all_commits=true&count_private=true&show_icons=true" /> <img align="center" height="210"  src="https://github-readme-stats.vercel.app/api/?username=suryakaushik&langs_count=8&theme=graywhite" /> 
+<img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=graywhite&hide=css,tsql&layout=compact&include_all_commits=true&count_private=true&show_icons=true" /> <img align="center" height="210" src="https://github-readme-stats.vercel.app/api/?username=suryakaushik&langs_count=8&theme=graywhite" /> 
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
     <!--  CONTRIBUTION AND STREAK BLOCK -->
@@ -47,6 +42,7 @@
     </a>
 </p>
 <br>
+        
 <!-- ACTIVITY GRAPH TRACKER -->
 <a>
     <img src="https://activity-graph.herokuapp.com/graph?username=suryakaushik&theme=react-dark&align=center"/>
