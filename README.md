@@ -32,7 +32,7 @@
 <!--  CONTRIBUTION AND STREAK BLOCK, PROFILE VIEWS -->
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-    <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/> </a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/> 
         <a> <p>📶 <b>GITHUB PAGE COUNT<b></p> <p><img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/> </p></a>
     </p>
 <br>  
